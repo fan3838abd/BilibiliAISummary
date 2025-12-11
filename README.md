@@ -129,6 +129,10 @@ output/
 
 每个视频的处理结果（字幕文件和总结文件）都保存在独立的子目录中，便于管理和查找。
 
+### 输出示例
+
+查看实际输出效果：[输出Demo](https://github.com/fan3838abd/BilibiliAISummary/tree/main/output/20251210_214001)
+
 ## 注意事项
 
 1. 确保 `cookies.txt` 文件有效，否则可能无法下载字幕
